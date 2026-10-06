@@ -1,0 +1,5 @@
+{
+  "extraction_model": "gemini-3.5-flash-lite",
+  "judge_model": "gemini-3.5-flash-lite",
+  "how_run": "published functions, same order as run_pipeline(); judge models parameter = [tool model]"
+}

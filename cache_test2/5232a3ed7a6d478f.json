@@ -1,0 +1,94 @@
+{
+  "model_used": "gemini-3.1-flash-lite",
+  "tag": "rfp2-attempt-1",
+  "prompt_preview": "\nYou are the head of procurement at Falaj Health Partners, a fictional healthcare group (4 hospitals and 12 outpatient clinics).\nWrite a realistic, detailed Request for Proposal (RFP) for \"Patient Experience and Clinical Operations Transformation\".\n\nIt MUST contain every requirement below. Rules:\n- ",
+  "response": {
+    "title": "Request for Proposal: Patient Experience and Clinical Operations Transformation",
+    "reference": "FHP-2026-DX-001",
+    "sections": [
+      {
+        "heading": "1. Project Background and Objectives",
+        "paragraphs": [
+          "Falaj Health Partners (FHP) is a premier healthcare provider operating a network of 4 hospitals and 12 outpatient clinics. As we look to the future, our objective is to redefine the standards of care delivery, optimizing our operational efficiency while placing the patient at the center of our ecosystem. This RFP seeks a strategic partner to lead our comprehensive transformation initiative."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "2. Scope of Services",
+        "paragraphs": [
+          "The selected partner will be responsible for a holistic evaluation and transformation strategy. The work will be structured across the following domains:",
+          "2.1 Diagnostic and Analytical Foundation: The Supplier will execute a comprehensive mapping of existing patient journeys throughout our entire network of 4 hospitals and 12 outpatient clinics. Simultaneously, bidders are required to perform a rigorous analysis of waiting-time data covering the previous 24 months for both our emergency departments and outpatient services. To ensure a qualitative understanding of these metrics, the engagement must involve conducting no fewer than 60 in-depth interviews with our patients and clinical staff members.",
+          "2.2 Regulatory and Operational Assessment: It is expected that the partner will conduct a thorough audit to assess whether our current handling of patient data strictly adheres to all applicable national health data protection regulations. Furthermore, the firm will benchmark our network's operational performance against a minimum of five peer-level international hospital groups to identify gaps and best-in-class practices.",
+          "2.3 Strategy and Workforce Design: The partner will recommend a comprehensive digital front-door strategy, which must include specifications for online appointment booking systems, an integrated symptom-triage chatbot, and a branded patient mobile application. Additionally, the Supplier is tasked with developing a robust workforce scheduling optimization model specifically tailored for our doctors and nurses.",
+          "2.4 Governance and Change Management: Bidders must design a formal program governance model, incorporating a dedicated steering board and a cadence for monthly KPI reviews. Furthermore, the partner will provide a detailed change management and training plan directed at all frontline staff members operating across our full network of hospitals and clinics."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "3. Deliverables",
+        "paragraphs": [
+          "The following outputs are required as part of the formal engagement:",
+          "3.1 Baseline diagnostic report covering the current state of patient experience and operations.",
+          "3.2 A prioritised initiative roadmap, including a detailed cost-benefit estimate for every proposed initiative.",
+          "3.3 An interactive dashboard visualizing patient-experience KPIs, which must be fully handed over to our internal IT team upon completion.",
+          "3.4 To ensure accessibility across our stakeholder base, the final report must be provided in both English and Arabic.",
+          "3.5 The Supplier will provide weekly written progress updates directly to the project sponsor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "4. Timeline and Scheduling",
+        "paragraphs": [
+          "The engagement is expected to be completed within a maximum timeframe of 20 weeks. Following the contract award, the Supplier must begin on-site work within 10 working days. Furthermore, the partner is required to present their interim findings no later than week 10 of the project."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "5. Commercial and Submission Requirements",
+        "paragraphs": [
+          "Proposals must adhere to the following commercial standards:",
+          "5.1 Bidders must provide a minimum of three references from healthcare clients located within the GCC region.",
+          "5.2 The pricing model must be structured as a fixed fee, with the inclusion of an option for milestone-based payments.",
+          "5.3 The bidding firm is required to name a dedicated clinical advisor who possesses at least 10 years of professional hospital experience."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "6. Evaluation Criteria",
+        "paragraphs": [
+          "Proposals will be evaluated based on the following weights: Technical Approach (40%), Relevant Experience and References (30%), Pricing Strategy (20%), and Resource Qualifications (10%)."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "7. Submission Instructions",
+        "paragraphs": [
+          "All proposals must be submitted electronically to the Procurement Department no later than 15 November 2026."
+        ],
+        "bullets": []
+      }
+    ],
+    "requirement_quotes": {
+      "S1": "The Supplier will execute a comprehensive mapping of existing patient journeys throughout our entire network of 4 hospitals and 12 outpatient clinics.",
+      "S2": "Simultaneously, bidders are required to perform a rigorous analysis of waiting-time data covering the previous 24 months for both our emergency departments and outpatient services.",
+      "S3": "To ensure a qualitative understanding of these metrics, the engagement must involve conducting no fewer than 60 in-depth interviews with our patients and clinical staff members.",
+      "S4": "It is expected that the partner will conduct a thorough audit to assess whether our current handling of patient data strictly adheres to all applicable national health data protection regulations.",
+      "S5": "The partner will recommend a comprehensive digital front-door strategy, which must include specifications for online appointment booking systems, an integrated symptom-triage chatbot, and a branded patient mobile application.",
+      "S6": "Additionally, the Supplier is tasked with developing a robust workforce scheduling optimization model specifically tailored for our doctors and nurses.",
+      "S7": "Furthermore, the firm will benchmark our network's operational performance against a minimum of five peer-level international hospital groups to identify gaps and best-in-class practices.",
+      "S8": "Bidders must design a formal program governance model, incorporating a dedicated steering board and a cadence for monthly KPI reviews.",
+      "S9": "Furthermore, the partner will provide a detailed change management and training plan directed at all frontline staff members operating across our full network of hospitals and clinics.",
+      "D1": "3.1 Baseline diagnostic report covering the current state of patient experience and operations.",
+      "D2": "3.2 A prioritised initiative roadmap, including a detailed cost-benefit estimate for every proposed initiative.",
+      "D3": "3.3 An interactive dashboard visualizing patient-experience KPIs, which must be fully handed over to our internal IT team upon completion.",
+      "D4": "3.4 To ensure accessibility across our stakeholder base, the final report must be provided in both English and Arabic.",
+      "D5": "3.5 The Supplier will provide weekly written progress updates directly to the project sponsor.",
+      "T1": "The engagement is expected to be completed within a maximum timeframe of 20 weeks.",
+      "T2": "Furthermore, the partner is required to present their interim findings no later than week 10 of the project.",
+      "T3": "Following the contract award, the Supplier must begin on-site work within 10 working days.",
+      "C1": "5.1 Bidders must provide a minimum of three references from healthcare clients located within the GCC region.",
+      "C2": "5.2 The pricing model must be structured as a fixed fee, with the inclusion of an option for milestone-based payments.",
+      "C3": "5.3 The bidding firm is required to name a dedicated clinical advisor who possesses at least 10 years of professional hospital experience."
+    }
+  }
+}

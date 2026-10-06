@@ -1,0 +1,487 @@
+{
+  "extraction": {
+    "found": "20/20",
+    "requirements_listed": 20,
+    "category_agreement": "20/20",
+    "extras": [],
+    "links": [
+      {
+        "planted_id": "S1",
+        "req_id": "R01",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S2",
+        "req_id": "R02",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S3",
+        "req_id": "R03",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S4",
+        "req_id": "R04",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S5",
+        "req_id": "R06",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S6",
+        "req_id": "R07",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S7",
+        "req_id": "R05",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S8",
+        "req_id": "R08",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "S9",
+        "req_id": "R09",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "D1",
+        "req_id": "R10",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "D2",
+        "req_id": "R11",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "D3",
+        "req_id": "R12",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "D4",
+        "req_id": "R13",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "D5",
+        "req_id": "R14",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "T1",
+        "req_id": "R15",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "T2",
+        "req_id": "R17",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "T3",
+        "req_id": "R16",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "C1",
+        "req_id": "R18",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "C2",
+        "req_id": "R19",
+        "score": 1.0,
+        "category_ok": true
+      },
+      {
+        "planted_id": "C3",
+        "req_id": "R20",
+        "score": 1.0,
+        "category_ok": true
+      }
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "judge_models": [
+    "gemini-3.5-flash-lite"
+  ],
+  "generator_models": [
+    "gemini-3.1-flash-lite"
+  ],
+  "tool_models": [
+    "gemini-3.5-flash-lite"
+  ],
+  "models_separated": true,
+  "tool": {
+    "rows": [
+      {
+        "planted_id": "S1",
+        "req_id": "R01",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          5
+        ],
+        "predicted_slides": [
+          5
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S2",
+        "req_id": "R02",
+        "expected": "Partially covered",
+        "predicted": "Partially covered",
+        "status_ok": true,
+        "expected_slides": [
+          6
+        ],
+        "predicted_slides": [
+          6
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S3",
+        "req_id": "R03",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          5
+        ],
+        "predicted_slides": [
+          5
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S4",
+        "req_id": "R04",
+        "expected": "Not covered",
+        "predicted": "Not covered",
+        "status_ok": true,
+        "expected_slides": [],
+        "predicted_slides": [],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S5",
+        "req_id": "R06",
+        "expected": "Partially covered",
+        "predicted": "Partially covered",
+        "status_ok": true,
+        "expected_slides": [
+          7
+        ],
+        "predicted_slides": [
+          7
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S6",
+        "req_id": "R07",
+        "expected": "Covered",
+        "predicted": "Partially covered",
+        "status_ok": false,
+        "expected_slides": [
+          8
+        ],
+        "predicted_slides": [
+          8
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S7",
+        "req_id": "R05",
+        "expected": "Not covered",
+        "predicted": "Not covered",
+        "status_ok": true,
+        "expected_slides": [],
+        "predicted_slides": [],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S8",
+        "req_id": "R08",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          9
+        ],
+        "predicted_slides": [
+          9
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "S9",
+        "req_id": "R09",
+        "expected": "Partially covered",
+        "predicted": "Partially covered",
+        "status_ok": true,
+        "expected_slides": [
+          10
+        ],
+        "predicted_slides": [
+          10
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "D1",
+        "req_id": "R10",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          11
+        ],
+        "predicted_slides": [
+          11
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "D2",
+        "req_id": "R11",
+        "expected": "Partially covered",
+        "predicted": "Partially covered",
+        "status_ok": true,
+        "expected_slides": [
+          11
+        ],
+        "predicted_slides": [
+          11
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "D3",
+        "req_id": "R12",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          11
+        ],
+        "predicted_slides": [
+          11
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "D4",
+        "req_id": "R13",
+        "expected": "Not covered",
+        "predicted": "Partially covered",
+        "status_ok": false,
+        "expected_slides": [],
+        "predicted_slides": [
+          13
+        ],
+        "slide_ok": false
+      },
+      {
+        "planted_id": "D5",
+        "req_id": "R14",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          12
+        ],
+        "predicted_slides": [
+          12
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "T1",
+        "req_id": "R15",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          12
+        ],
+        "predicted_slides": [
+          12
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "T2",
+        "req_id": "R17",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          12
+        ],
+        "predicted_slides": [
+          12
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "T3",
+        "req_id": "R16",
+        "expected": "Not covered",
+        "predicted": "Not covered",
+        "status_ok": true,
+        "expected_slides": [],
+        "predicted_slides": [],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "C1",
+        "req_id": "R18",
+        "expected": "Partially covered",
+        "predicted": "Not covered",
+        "status_ok": false,
+        "expected_slides": [
+          15
+        ],
+        "predicted_slides": [],
+        "slide_ok": false
+      },
+      {
+        "planted_id": "C2",
+        "req_id": "R19",
+        "expected": "Covered",
+        "predicted": "Covered",
+        "status_ok": true,
+        "expected_slides": [
+          14
+        ],
+        "predicted_slides": [
+          14
+        ],
+        "slide_ok": true
+      },
+      {
+        "planted_id": "C3",
+        "req_id": "R20",
+        "expected": "Covered",
+        "predicted": "Partially covered",
+        "status_ok": false,
+        "expected_slides": [
+          13
+        ],
+        "predicted_slides": [
+          13
+        ],
+        "slide_ok": true
+      }
+    ],
+    "gaps_caught": "9/9",
+    "status_accuracy": "16/20",
+    "false_alarms": "2/11",
+    "slide_accuracy": "18/20",
+    "traps_fooled": "1/4",
+    "confusion": {
+      "Covered": {
+        "Covered": 9,
+        "Partially covered": 2,
+        "Not covered": 0
+      },
+      "Partially covered": {
+        "Covered": 0,
+        "Partially covered": 4,
+        "Not covered": 1
+      },
+      "Not covered": {
+        "Covered": 0,
+        "Partially covered": 1,
+        "Not covered": 3
+      }
+    }
+  },
+  "baseline": {
+    "gaps_caught": "9/9",
+    "status_accuracy": "4/20",
+    "false_alarms": "11/11",
+    "slide_accuracy": "12/20",
+    "traps_fooled": "1/4",
+    "confusion": {
+      "Covered": {
+        "Covered": 0,
+        "Partially covered": 8,
+        "Not covered": 3
+      },
+      "Partially covered": {
+        "Covered": 0,
+        "Partially covered": 2,
+        "Not covered": 3
+      },
+      "Not covered": {
+        "Covered": 0,
+        "Partially covered": 2,
+        "Not covered": 2
+      }
+    },
+    "thresholds": [
+      0.5,
+      0.25
+    ]
+  },
+  "baseline_best": {
+    "gaps_caught": "4/9",
+    "status_accuracy": "12/20",
+    "false_alarms": "1/11",
+    "slide_accuracy": "15/20",
+    "traps_fooled": "4/4",
+    "confusion": {
+      "Covered": {
+        "Covered": 10,
+        "Partially covered": 1,
+        "Not covered": 0
+      },
+      "Partially covered": {
+        "Covered": 3,
+        "Partially covered": 2,
+        "Not covered": 0
+      },
+      "Not covered": {
+        "Covered": 2,
+        "Partially covered": 2,
+        "Not covered": 0
+      }
+    },
+    "thresholds": [
+      0.2,
+      0.05
+    ]
+  }
+}

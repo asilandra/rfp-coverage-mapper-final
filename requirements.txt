@@ -1,0 +1,17 @@
+# Exact versions the tool was verified with (Kaggle, Python 3.13.15).
+# Install with:  pip install -r requirements.txt
+
+google-genai==2.12.1        # official Gemini SDK
+python-dotenv==1.2.3         # loads the API key from .env
+python-docx==1.2.0         # read/write Word files
+python-pptx==1.0.2         # read/write PowerPoint files
+pdfplumber==0.11.10       # read PDF files
+reportlab==5.0.1         # write PDF files (synthetic RFP)
+pandas==2.3.3         # tables
+openpyxl==3.1.5         # Excel report
+sentence-transformers==5.7.0         # local embedding model for slide ranking
+
+# Also tested with (installed automatically; not pinned, so installation also works on Windows and Mac):
+#   torch==2.11.0+cpu
+#   transformers==5.16.1
+#   numpy==2.1.3

@@ -1,0 +1,19 @@
+id,category,text,expected_status,expected_slides,rfp_section
+S1,Scope,"Assess the current AI and analytics maturity of all five business units (Ports, Freight, Warehousing, Customs Brokerage, Corporate Services).",Covered,5,2. Scope of Work and Objectives
+S2,Scope,"Identify at least 20 AI use cases and prioritise them by business value and feasibility, with an estimated financial impact for each.",Covered,6,2. Scope of Work and Objectives
+S3,Scope,"Assess the readiness of the group's data infrastructure AND its data governance (data ownership, data quality standards and data policies).",Partially covered,5,2. Scope of Work and Objectives
+S4,Scope,Benchmark the group's AI maturity against at least three regional and global logistics peers.,Not covered,,2. Scope of Work and Objectives
+S5,Scope,"Design an AI target operating model, including an AI Centre of Excellence, key roles and decision rights.",Covered,7,2. Scope of Work and Objectives
+S6,Scope,Develop a Responsible AI framework aligned with the UAE's national AI ethics principles.,Not covered,,2. Scope of Work and Objectives
+S7,Scope,Design a change management and AI upskilling programme reaching approximately 500 employees.,Partially covered,9,2. Scope of Work and Objectives
+S8,Scope,Deliver two proof-of-concept pilots for top-priority use cases.,Covered,8,2. Scope of Work and Objectives
+D1,Deliverable,A current-state assessment report.,Covered,10,4. Required Deliverables
+D2,Deliverable,A prioritised AI use-case portfolio.,Covered,10,4. Required Deliverables
+D3,Deliverable,A three-year AI roadmap including investment estimates by year.,Partially covered,7,4. Required Deliverables
+D4,Deliverable,A final presentation to the Executive Board.,Covered,10,4. Required Deliverables
+D5,Deliverable,All final deliverables provided in both Arabic and English.,Not covered,,4. Required Deliverables
+T1,Timeline,Complete the full engagement within 16 weeks.,Covered,11,2. Scope of Work and Objectives
+T2,Timeline,Hold an interim Steering Committee review at week 8.,Covered,11,3. Project Timeline and Governance
+T3,Timeline,Mobilise the team and hold the project kick-off within two weeks of contract signature.,Not covered,,3. Project Timeline and Governance
+C1,Proposal requirement,"Provide CVs of the proposed team, including at least two Arabic-speaking consultants.",Partially covered,12,5. Proposal Submission Requirements
+C2,Proposal requirement,Provide fixed-fee pricing broken down by project phase.,Covered,13,5. Proposal Submission Requirements

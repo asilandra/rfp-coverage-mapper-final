@@ -1,0 +1,206 @@
+{
+  "rfp_source": "rfp_test2.pdf",
+  "model": "gemini-3.5-flash-lite",
+  "requirements": [
+    {
+      "category": "Scope",
+      "requirement": "Execute a comprehensive mapping of existing patient journeys throughout the network of 4 hospitals and 12 outpatient clinics.",
+      "source_quote": "The Supplier will execute a comprehensive mapping of existing patient journeys throughout our entire network of 4 hospitals and 12 outpatient clinics.",
+      "block_id": "B006",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R01"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Perform a rigorous analysis of waiting-time data covering the previous 24 months for emergency departments and outpatient services.",
+      "source_quote": "bidders are required to perform a rigorous analysis of waiting-time data covering the previous 24 months for both our emergency departments and outpatient services.",
+      "block_id": "B006",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R02"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Conduct no fewer than 60 in-depth interviews with patients and clinical staff members.",
+      "source_quote": "the engagement must involve conducting no fewer than 60 in-depth interviews with our patients and clinical staff members.",
+      "block_id": "B006",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R03"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Conduct a thorough audit to assess patient data handling adherence to national health data protection regulations.",
+      "source_quote": "It is expected that the partner will conduct a thorough audit to assess whether our current handling of patient data strictly adheres to all applicable national health data protection regulations.",
+      "block_id": "B007",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R04"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Benchmark network operational performance against a minimum of five peer-level international hospital groups.",
+      "source_quote": "the firm will benchmark our network's operational performance against a minimum of five peer-level international hospital groups to identify gaps and best-in-class practices.",
+      "block_id": "B007",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R05"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Recommend a digital front-door strategy including online appointment booking, a symptom-triage chatbot, and a branded patient mobile app.",
+      "source_quote": "The partner will recommend a comprehensive digital front-door strategy, which must include specifications for online appointment booking systems, an integrated symptom-triage chatbot, and a branded patient mobile application.",
+      "block_id": "B008",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R06"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Develop a workforce scheduling optimization model tailored for doctors and nurses.",
+      "source_quote": "Additionally, the Supplier is tasked with developing a robust workforce scheduling optimization model specifically tailored for our doctors and nurses.",
+      "block_id": "B008",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R07"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Design a formal program governance model with a dedicated steering board and monthly KPI reviews.",
+      "source_quote": "Bidders must design a formal program governance model, incorporating a dedicated steering board and a cadence for monthly KPI reviews.",
+      "block_id": "B009",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R08"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Provide a detailed change management and training plan directed at all frontline staff members.",
+      "source_quote": "Furthermore, the partner will provide a detailed change management and training plan directed at all frontline staff members operating across our full network of hospitals and clinics.",
+      "block_id": "B009",
+      "section": "2. Scope of Services",
+      "quote_check": "verified",
+      "id": "R09"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver a baseline diagnostic report covering current patient experience and operations.",
+      "source_quote": "3.1 Baseline diagnostic report covering the current state of patient experience and operations.",
+      "block_id": "B012",
+      "section": "3. Deliverables",
+      "quote_check": "verified",
+      "id": "R10"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver a prioritised initiative roadmap including a cost-benefit estimate for every proposed initiative.",
+      "source_quote": "3.2 A prioritised initiative roadmap, including a detailed cost-benefit estimate for every proposed initiative.",
+      "block_id": "B012",
+      "section": "3. Deliverables",
+      "quote_check": "verified",
+      "id": "R11"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver an interactive dashboard visualizing patient-experience KPIs and hand it over to the internal IT team.",
+      "source_quote": "3.3 An interactive dashboard visualizing patient-experience KPIs, which must be fully handed over to our internal IT team upon completion.",
+      "block_id": "B013",
+      "section": "3. Deliverables",
+      "quote_check": "verified",
+      "id": "R12"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Provide the final report in both English and Arabic.",
+      "source_quote": "3.4 To ensure accessibility across our stakeholder base, the final report must be provided in both English and Arabic.",
+      "block_id": "B014",
+      "section": "3. Deliverables",
+      "quote_check": "verified",
+      "id": "R13"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Provide weekly written progress updates to the project sponsor.",
+      "source_quote": "3.5 The Supplier will provide weekly written progress updates directly to the project sponsor.",
+      "block_id": "B015",
+      "section": "3. Deliverables",
+      "quote_check": "verified",
+      "id": "R14"
+    },
+    {
+      "category": "Timeline",
+      "requirement": "Complete the engagement within a maximum timeframe of 20 weeks.",
+      "source_quote": "The engagement is expected to be completed within a maximum timeframe of 20 weeks.",
+      "block_id": "B017",
+      "section": "4. Timeline and Scheduling",
+      "quote_check": "verified",
+      "id": "R15"
+    },
+    {
+      "category": "Timeline",
+      "requirement": "Begin on-site work within 10 working days following the contract award.",
+      "source_quote": "Following the contract award, the Supplier must begin on-site work within 10 working days.",
+      "block_id": "B017",
+      "section": "4. Timeline and Scheduling",
+      "quote_check": "verified",
+      "id": "R16"
+    },
+    {
+      "category": "Timeline",
+      "requirement": "Present interim findings no later than week 10 of the project.",
+      "source_quote": "Furthermore, the partner is required to present their interim findings no later than week 10 of the project.",
+      "block_id": "B017",
+      "section": "4. Timeline and Scheduling",
+      "quote_check": "verified",
+      "id": "R17"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Provide a minimum of three references from healthcare clients located within the GCC region.",
+      "source_quote": "5.1 Bidders must provide a minimum of three references from healthcare clients located within the GCC region.",
+      "block_id": "B020",
+      "section": "5. Commercial and Submission Requirements",
+      "quote_check": "verified",
+      "id": "R18"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Structure the pricing model as a fixed fee with an option for milestone-based payments.",
+      "source_quote": "5.2 The pricing model must be structured as a fixed fee, with the inclusion of an option for milestone-based payments.",
+      "block_id": "B021",
+      "section": "5. Commercial and Submission Requirements",
+      "quote_check": "verified",
+      "id": "R19"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Name a dedicated clinical advisor with at least 10 years of professional hospital experience.",
+      "source_quote": "5.3 The bidding firm is required to name a dedicated clinical advisor who possesses at least 10 years of professional hospital experience.",
+      "block_id": "B022",
+      "section": "5. Commercial and Submission Requirements",
+      "quote_check": "verified",
+      "id": "R20"
+    }
+  ],
+  "removed_duplicates": [],
+  "unverified": [],
+  "skipped_sections": [
+    {
+      "section": "Front matter",
+      "reason": "Contains background reference and RFP identification details."
+    },
+    {
+      "section": "1. Project Background and Objectives",
+      "reason": "Contains background and contextual information about the client."
+    },
+    {
+      "section": "6. Evaluation Criteria",
+      "reason": "Contains evaluation weights and criteria rather than consultant or proposal obligations."
+    },
+    {
+      "section": "7. Submission Instructions",
+      "reason": "Contains submission logistics regarding where, how, and when to submit proposals."
+    }
+  ]
+}

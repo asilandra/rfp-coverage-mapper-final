@@ -1,0 +1,16 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Partially covered",
+    "slides": [
+      3,
+      12
+    ],
+    "evidence": "Tariq Al-Hashemi (Partner) - Engagement Lead with 18 years in logistics technology advisory.",
+    "missing": "Evidence of past logistics sector project execution or firm-level logistics client experience; the deck shows logistics expertise via team backgrounds and context understanding, but lists past relevant experience strictly for banking, retail, and public sector clients.",
+    "reasoning": "The proposal shows team background in logistics technology and understands the client's logistics context, but its explicit past project experience section (Slide 14) lists projects in banking, retail, and government rather than logistics.",
+    "confidence": "High"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "model_used": "gemini-3.1-flash-lite",
+  "tag": "deck2-attempt-3",
+  "prompt_preview": "\nYou are a consultant at Tessera Advisory (a fictional firm) writing a proposal deck for Falaj Health Partners on \"Patient Experience and Clinical Operations Transformation\".\nWrite the text for EXACTLY 16 slides, following each brief closely.\nRules:\n- Confident consulting language in your OWN words.",
+  "response": {
+    "slides": [
+      {
+        "slide_number": 1,
+        "title": "Patient Experience and Clinical Operations Transformation: proposal to Falaj Health Partners",
+        "bullets": [
+          "Submitted by Tessera Advisory",
+          "October 2026"
+        ],
+        "notes": "Opening slide for the proposal submission.",
+        "table": null
+      },
+      {
+        "slide_number": 2,
+        "title": "About Tessera Advisory",
+        "bullets": [
+          "We are a boutique firm specializing in operational health excellence.",
+          "Our firm holds ISO 27001 certification for information security.",
+          "Protecting data entrusted to us remains one of our core values."
+        ],
+        "notes": "Highlighting firm credentials and commitment to data security.",
+        "table": null
+      },
+      {
+        "slide_number": 3,
+        "title": "Our understanding",
+        "bullets": [
+          "Falaj Health Partners faces increasing pressure from rising patient expectations.",
+          "Current facilities are experiencing significant capacity constraints.",
+          "Persistent staff shortages continue to impact service delivery efficiency."
+        ],
+        "notes": "Setting the context based on current client challenges.",
+        "table": null
+      },
+      {
+        "slide_number": 4,
+        "title": "Our approach",
+        "bullets": [
+          "Listen: We capture the voice of your stakeholders to understand current pain points.",
+          "Measure: We leverage data to quantify operational performance and friction.",
+          "Design: We architect future-state processes and digital solutions.",
+          "Mobilise: We define the roadmap for successful implementation."
+        ],
+        "notes": "Overview of the four-phase methodology.",
+        "table": null
+      },
+      {
+        "slide_number": 5,
+        "title": "Phase 1: Listen",
+        "bullets": [
+          "Trace end-to-end care pathways across the sixteen hospitals and clinics.",
+          "Conduct sixty-plus sessions to gather feedback from patients, nurses, and physicians."
+        ],
+        "notes": "Detailed approach to gathering stakeholder insights.",
+        "table": null
+      },
+      {
+        "slide_number": 6,
+        "title": "Phase 2: Measure",
+        "bullets": [
+          "Quantify appointment delays and queue lengths for outpatient services.",
+          "Examine two years of historical records to identify operational trends."
+        ],
+        "notes": "Focusing on outpatient performance analysis.",
+        "table": null
+      },
+      {
+        "slide_number": 7,
+        "title": "Phase 3: Design the digital experience",
+        "bullets": [
+          "Recommend a robust online appointment booking platform.",
+          "Propose a dedicated patient mobile app to enhance user engagement."
+        ],
+        "notes": "Proposing digital tools to improve patient access.",
+        "table": null
+      },
+      {
+        "slide_number": 8,
+        "title": "Phase 3: Design the workforce model",
+        "bullets": [
+          "Develop a sophisticated rostering engine for clinical staff.",
+          "Align shift patterns with predicted patient demand to improve productivity."
+        ],
+        "notes": "Focusing on demand-based workforce planning.",
+        "table": null
+      },
+      {
+        "slide_number": 9,
+        "title": "Programme leadership",
+        "bullets": [
+          "Establish an executive steering board for high-level oversight.",
+          "Conduct monthly reviews of a balanced scorecard of performance indicators."
+        ],
+        "notes": "Defining the leadership structure for the program.",
+        "table": null
+      },
+      {
+        "slide_number": 10,
+        "title": "Building capability",
+        "bullets": [
+          "Launch a specialized training academy for nursing staff.",
+          "Focus development exclusively on the four hospitals within the network."
+        ],
+        "notes": "Focusing on nursing staff capability building.",
+        "table": null
+      },
+      {
+        "slide_number": 11,
+        "title": "What you will receive",
+        "bullets": [
+          "A baseline report on current patient experience and operational state.",
+          "A sequenced plan of initiatives prioritized for execution.",
+          "A live performance cockpit transferred to your internal technology team."
+        ],
+        "notes": "Summary of primary project outputs.",
+        "table": null
+      },
+      {
+        "slide_number": 12,
+        "title": "Workplan",
+        "bullets": [
+          "The total duration is 20 weeks.",
+          "Status notes provided every Thursday to the executive sponsor.",
+          "Mid-programme readout of results scheduled for week 10."
+        ],
+        "notes": "High-level timeline and communication rhythm.",
+        "table": {
+          "headers": [
+            "Weeks",
+            "Phase",
+            "Highlights"
+          ],
+          "rows": [
+            [
+              "1-5",
+              "Listen",
+              "Stakeholder engagement"
+            ],
+            [
+              "6-10",
+              "Measure",
+              "Data analysis"
+            ],
+            [
+              "11-16",
+              "Design",
+              "Solution architecture"
+            ],
+            [
+              "17-20",
+              "Mobilise",
+              "Implementation roadmap"
+            ]
+          ]
+        }
+      },
+      {
+        "slide_number": 13,
+        "title": "Your team",
+        "bullets": [
+          "Five dedicated experts with deep industry experience.",
+          "Includes a clinical advisor who served as a hospital chief medical officer for 15 years.",
+          "All team members are fully fluent in English and Arabic."
+        ],
+        "notes": "Introducing the project team expertise.",
+        "table": null
+      },
+      {
+        "slide_number": 14,
+        "title": "Commercial proposal",
+        "bullets": [
+          "Fixed fee structure for the entire engagement.",
+          "Payment schedule linked to specific project milestones.",
+          "Invoices payable within 30 days of contract award."
+        ],
+        "notes": "Commercial terms and payment structure.",
+        "table": null
+      },
+      {
+        "slide_number": 15,
+        "title": "Relevant experience",
+        "bullets": [
+          "References from three healthcare clients available upon request.",
+          "Proprietary benchmarking database covering over 200 hospitals worldwide."
+        ],
+        "notes": "Demonstrating firm track record and proprietary assets.",
+        "table": null
+      },
+      {
+        "slide_number": 16,
+        "title": "Why Tessera and next steps",
+        "bullets": [
+          "Deep sector expertise tailored to your specific needs.",
+          "Proven methodologies that drive tangible operational outcomes.",
+          "Invitation to a follow-up meeting to discuss project alignment."
+        ],
+        "notes": "Closing value proposition and call to action.",
+        "table": null
+      }
+    ]
+  }
+}

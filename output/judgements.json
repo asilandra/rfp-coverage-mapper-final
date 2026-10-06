@@ -1,0 +1,506 @@
+[
+  {
+    "id": "R01",
+    "category": "Timeline",
+    "requirement": "Complete the full engagement within 16 weeks from commencement.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "The appointed consultant shall complete the full engagement within 16 weeks from the official commencement date.",
+    "status": "Covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Structured 16-week engagement plan designed for rapid insight generation and strategic delivery.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 11 explicitly commits to a structured 16-week engagement plan, fully addressing the 16-week completion timeline requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      13,
+      5
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R02",
+    "category": "Scope",
+    "requirement": "Benchmark the group's AI maturity against at least three regional and global logistics peers.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "the consultant shall benchmark the group's AI maturity against at least three regional and global logistics peers.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Benchmarking the group's AI maturity against at least three regional and global logistics peers",
+    "reasoning": "None of the slides commit to benchmarking the client's AI maturity against regional and global logistics peers.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      12,
+      1,
+      15
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R03",
+    "category": "Scope",
+    "requirement": "Assess the current AI and analytics maturity of all five business units.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "the consultant shall thoroughly assess the current AI and analytics maturity of all five business units (Ports, Freight, Warehousing, Customs Brokerage, Corporate Services).",
+    "status": "Covered",
+    "slides": [
+      5
+    ],
+    "evidence": "Evaluate readiness baselines across Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 5 explicitly commits to evaluating readiness baselines across all five specified business units (Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services), which directly addresses the requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      5,
+      6,
+      9
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R04",
+    "category": "Scope",
+    "requirement": "Assess the readiness of data infrastructure and data governance including ownership, quality, and policies.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "the consultant shall assess the readiness of the group's data infrastructure and its data governance, encompassing data ownership, data quality standards, and data policies.",
+    "status": "Partially covered",
+    "slides": [
+      5,
+      11
+    ],
+    "evidence": "Audit technical data platforms, cloud infrastructure, and existing system integration frameworks.",
+    "evidence_check": "verified",
+    "missing": "Assessment of data governance, specifically data ownership, data quality standards, and data policies.",
+    "reasoning": "The slides commit to auditing technical data platforms and infrastructure, but they do not mention assessing data governance, ownership, quality standards, or data policies.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      5,
+      9,
+      10
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R05",
+    "category": "Scope",
+    "requirement": "Identify at least 20 AI use cases and prioritise them by value and feasibility with financial estimates.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "the consultant shall identify at least 20 AI use cases and prioritise them by business value and feasibility, with an estimated financial impact for each.",
+    "status": "Covered",
+    "slides": [
+      6
+    ],
+    "evidence": "Build a comprehensive long-list of 25+ AI opportunities spanning the entire enterprise footprint.\n- Score each opportunity rigorously based on business value versus ease of implementation.\n- Size each AI play with an indicative EBITDA uplift model",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 6 commits to building a long-list of 25+ AI opportunities (fulfilling the requirement of at least 20), scoring them by value and feasibility (business value versus ease of implementation), and providing financial estimates (indicative EBITDA uplift model).",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      6,
+      9,
+      7
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R06",
+    "category": "Scope",
+    "requirement": "Design an AI target operating model, including an AI Centre of Excellence, roles, and decision rights.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "The consultant shall design an AI target operating model, including an AI Centre of Excellence, key roles, and decision rights.",
+    "status": "Covered",
+    "slides": [
+      7
+    ],
+    "evidence": "Architect a centralized AI hub and define new technical roles like AI product owners and machine learning engineers. Establish clear decision-making rights and accountability frameworks for enterprise artificial intelligence.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 7 explicitly commits to designing an AI target operating model, including an AI hub (Centre of Excellence), new technical roles, and clear decision-making rights.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      7,
+      1
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R07",
+    "category": "Scope",
+    "requirement": "Develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "The consultant shall develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Developing a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "reasoning": "The proposal slides mention AI strategy, roadmaps, opportunities, and general ethical standards of the firm, but do not commit to developing a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      14,
+      7
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R08",
+    "category": "Scope",
+    "requirement": "Design a change management and AI upskilling programme for approximately 500 employees.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "The consultant shall design a change management and AI upskilling programme reaching approximately 500 employees.",
+    "status": "Partially covered",
+    "slides": [
+      9
+    ],
+    "evidence": "Design and execute tailored AI awareness workshops exclusively for the senior leadership team.",
+    "evidence_check": "verified",
+    "missing": "The proposal includes executive workshops but does not commit to designing a change management and AI upskilling programme reaching approximately 500 employees.",
+    "reasoning": "The slides mention leadership workshops, but there is no mention of a change management or AI upskilling programme designed for approximately 500 employees.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      6,
+      1
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R09",
+    "category": "Deliverable",
+    "requirement": "Deliver two proof-of-concept pilots for top-priority use cases.",
+    "rfp_section": "2. Scope of Work and Objectives",
+    "rfp_quote": "The consultant shall deliver two proof-of-concept pilots for top-priority use cases.",
+    "status": "Covered",
+    "slides": [
+      8
+    ],
+    "evidence": "Construct two rapid minimum viable products targeting the highest-ranked operational opportunities.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 8 explicitly commits to constructing two rapid minimum viable products (proof-of-concept pilots) targeting the highest-ranked operational opportunities (top-priority use cases).",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      8,
+      4,
+      11
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R10",
+    "category": "Timeline",
+    "requirement": "Mobilise the team and hold the project kick-off within two weeks of contract signature.",
+    "rfp_section": "3. Project Timeline and Governance",
+    "rfp_quote": "The consultant shall mobilise the team and hold the project kick-off within two weeks of contract signature.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Mobilising the team and holding the project kick-off within two weeks of contract signature",
+    "reasoning": "The proposal slides outline a 16-week workplan starting with Phase 1 in weeks 1-4, but do not contain any commitment or mention regarding mobilising the team and holding the project kick-off within two weeks of contract signature.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      13,
+      12
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R11",
+    "category": "Timeline",
+    "requirement": "Hold an interim Steering Committee review at week 8 to evaluate preliminary findings and adjustments.",
+    "rfp_section": "3. Project Timeline and Governance",
+    "rfp_quote": "the consultant shall hold an interim Steering Committee review at week 8 to evaluate preliminary findings, review initial use-case prioritisation, and adjust project trajectories as necessary.",
+    "status": "Partially covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Includes a formal mid-point checkpoint with leadership sponsors in week 8.",
+    "evidence_check": "verified",
+    "missing": "Reviewing initial use-case prioritisation and adjusting project trajectories as necessary.",
+    "reasoning": "Slide 11 commits to a mid-point checkpoint in week 8 with leadership sponsors, but does not mention reviewing initial use-case prioritisation or adjusting project trajectories.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      4,
+      10
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R12",
+    "category": "Deliverable",
+    "requirement": "Provide all final deliverables in both Arabic and English.",
+    "rfp_section": "4. Required Deliverables",
+    "rfp_quote": "All final deliverables provided in both Arabic and English.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "The slides make no mention of providing final deliverables in both Arabic and English.",
+    "reasoning": "The proposal lists final deliverables on Slide 10, but contains no commitment regarding the languages (Arabic and English) in which they will be provided.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      10,
+      12,
+      5
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R13",
+    "category": "Deliverable",
+    "requirement": "Deliver a current-state assessment report detailing maturity across all operational domains.",
+    "rfp_section": "4. Required Deliverables",
+    "rfp_quote": "The mandated outputs must include a current-state assessment report detailing maturity across all operational domains",
+    "status": "Partially covered",
+    "slides": [
+      5,
+      10
+    ],
+    "evidence": "Evaluate readiness baselines across Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services.",
+    "evidence_check": "verified",
+    "missing": "Explicit commitment that the current-state assessment report details maturity across all operational domains (readiness and baseline are evaluated, but maturity across all domains is not explicitly detailed as a report output).",
+    "reasoning": "The slides commit to evaluating readiness baselines across operational domains and providing a baseline diagnostic report, but they do not explicitly commit to delivering a report detailing 'maturity' across all operational domains.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      5,
+      4,
+      8
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R14",
+    "category": "Deliverable",
+    "requirement": "Provide a prioritised AI use-case portfolio.",
+    "rfp_section": "4. Required Deliverables",
+    "rfp_quote": "alongside a prioritised AI use-case portfolio.",
+    "status": "Covered",
+    "slides": [
+      6,
+      10
+    ],
+    "evidence": "A fully ranked opportunity portfolio complete with EBITDA impact sizing.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 6 and Slide 10 explicitly commit to delivering a fully ranked, prioritized AI use-case portfolio complete with EBITDA impact sizing.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      6,
+      7,
+      9
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R15",
+    "category": "Deliverable",
+    "requirement": "Formulate a three-year AI roadmap including investment estimates by year.",
+    "rfp_section": "4. Required Deliverables",
+    "rfp_quote": "the consultant shall formulate a three-year AI roadmap including investment estimates by year.",
+    "status": "Partially covered",
+    "slides": [
+      7,
+      11
+    ],
+    "evidence": "Develop a sequenced three-year roadmap structured into distinct execution waves.",
+    "evidence_check": "verified",
+    "missing": "investment estimates by year",
+    "reasoning": "The slides commit to creating a three-year roadmap (Slide 7 and 11), but they do not provide or commit to including investment estimates broken down by year.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      7,
+      6
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R16",
+    "category": "Deliverable",
+    "requirement": "Deliver a final presentation to the Executive Board summarising the strategy, governance, and pilot outcomes.",
+    "rfp_section": "4. Required Deliverables",
+    "rfp_quote": "a final presentation to the Executive Board, summarising the strategic roadmap, governance models, and pilot outcomes.",
+    "status": "Covered",
+    "slides": [
+      10
+    ],
+    "evidence": "A final strategic presentation and executive briefing session with the Executive Board.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 10 explicitly commits to delivering a final strategic presentation and executive briefing session with the Executive Board that covers strategy (strategic presentation), governance, and pilot outcomes (implied in the scope of delivery).",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      10,
+      11,
+      5
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R17",
+    "category": "Proposal requirement",
+    "requirement": "Include detailed company profiles in the proposal submission.",
+    "rfp_section": "5. Proposal Submission Requirements",
+    "rfp_quote": "submissions must contain detailed company profiles",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "detailed company profiles",
+    "reasoning": "The slides contain brief information about the firm (Slide 2) and team members (Slide 12), but do not provide detailed company profiles as requested by the RFP.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      13,
+      11,
+      10
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R18",
+    "category": "Proposal requirement",
+    "requirement": "Demonstrate logistics sector experience in the proposal.",
+    "rfp_section": "5. Proposal Submission Requirements",
+    "rfp_quote": "demonstrable logistics sector experience",
+    "status": "Partially covered",
+    "slides": [
+      3,
+      12
+    ],
+    "evidence": "Tariq Al-Hashemi (Partner) - Engagement Lead with 18 years in logistics technology advisory.",
+    "evidence_check": "verified",
+    "missing": "Evidence of past logistics sector project execution or firm-level logistics client experience; the deck shows logistics expertise via team backgrounds and context understanding, but lists past relevant experience strictly for banking, retail, and public sector clients.",
+    "reasoning": "The proposal shows team background in logistics technology and understands the client's logistics context, but its explicit past project experience section (Slide 14) lists projects in banking, retail, and government rather than logistics.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      3,
+      12,
+      15
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R19",
+    "category": "Proposal requirement",
+    "requirement": "Include comprehensive methodological approaches within the proposal.",
+    "rfp_section": "5. Proposal Submission Requirements",
+    "rfp_quote": "and comprehensive methodological approaches.",
+    "status": "Covered",
+    "slides": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
+    "evidence": "Structured 16-week engagement plan designed for rapid insight generation and strategic delivery.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "The proposal provides a structured 16-week engagement plan and detailed methodological approaches across the Diagnose, Discover, Design, and Deliver phases.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      13,
+      4,
+      11
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R20",
+    "category": "Proposal requirement",
+    "requirement": "Provide CVs of the proposed team, including at least two Arabic-speaking consultants.",
+    "rfp_section": "5. Proposal Submission Requirements",
+    "rfp_quote": "the consultant shall provide CVs of the proposed team, including at least two Arabic-speaking consultants.",
+    "status": "Partially covered",
+    "slides": [
+      12
+    ],
+    "evidence": "Full curriculum vitae documents for all team members are provided in the appendix.",
+    "evidence_check": "verified",
+    "missing": "The slides mention providing CVs for all team members in the appendix, but they do not explicitly commit to including at least two Arabic-speaking consultants.",
+    "reasoning": "The proposal includes CVs for the team in the appendix (Slide 12), satisfying the first part of the requirement, but it fails to state or guarantee that at least two of the consultants are Arabic-speaking.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      14,
+      2,
+      12
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R21",
+    "category": "Proposal requirement",
+    "requirement": "Provide fixed-fee pricing broken down by project phase.",
+    "rfp_section": "5. Proposal Submission Requirements",
+    "rfp_quote": "Bidders must also provide fixed-fee pricing broken down by project phase.",
+    "status": "Covered",
+    "slides": [
+      13
+    ],
+    "evidence": "Fixed fees per phase: Diagnose (AED 350,000), Discover (AED 450,000), Design (AED 500,000), Deliver (AED 400,000).",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 13 provides fixed-fee pricing explicitly broken down by each project phase (Diagnose, Discover, Design, Deliver).",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      13,
+      11,
+      10
+    ],
+    "model": "cache: gemini-3.5-flash-lite"
+  }
+]

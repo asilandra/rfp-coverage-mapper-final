@@ -1,0 +1,474 @@
+[
+  {
+    "id": "R01",
+    "category": "Scope",
+    "requirement": "Execute a comprehensive mapping of existing patient journeys throughout the network of 4 hospitals and 12 outpatient clinics.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "The Supplier will execute a comprehensive mapping of existing patient journeys throughout our entire network of 4 hospitals and 12 outpatient clinics.",
+    "status": "Covered",
+    "slides": [
+      5
+    ],
+    "evidence": "Map end-to-end care pathways across all sixteen facilities.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 5 commits to mapping care pathways across all sixteen facilities (which equals 4 hospitals and 12 outpatient clinics), fulfilling the comprehensive mapping requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      5,
+      4,
+      16
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R02",
+    "category": "Scope",
+    "requirement": "Perform a rigorous analysis of waiting-time data covering the previous 24 months for emergency departments and outpatient services.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "bidders are required to perform a rigorous analysis of waiting-time data covering the previous 24 months for both our emergency departments and outpatient services.",
+    "status": "Partially covered",
+    "slides": [
+      6
+    ],
+    "evidence": "Quantify queue lengths using two years of historical records.",
+    "evidence_check": "verified",
+    "missing": "Analysis covering emergency departments",
+    "reasoning": "Slide 6 covers the analysis of outpatient services for the previous 24 months, but there is no mention of emergency departments.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      6,
+      3,
+      4
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R03",
+    "category": "Scope",
+    "requirement": "Conduct no fewer than 60 in-depth interviews with patients and clinical staff members.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "the engagement must involve conducting no fewer than 60 in-depth interviews with our patients and clinical staff members.",
+    "status": "Covered",
+    "slides": [
+      5
+    ],
+    "evidence": "Conduct sixty-plus sessions gathering feedback from patients and staff.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 5 explicitly commits to conducting sixty-plus sessions gathering feedback from patients and staff, which directly meets the requirement of no fewer than 60 in-depth interviews with patients and clinical staff.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      5,
+      4,
+      12
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R04",
+    "category": "Scope",
+    "requirement": "Conduct a thorough audit to assess patient data handling adherence to national health data protection regulations.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "It is expected that the partner will conduct a thorough audit to assess whether our current handling of patient data strictly adheres to all applicable national health data protection regulations.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Conducting a thorough audit to assess whether patient data handling adheres to national health data protection regulations.",
+    "reasoning": "The proposal mentions information security certifications and data protection as a core value for the firm (Slide 2), but does not commit to conducting an audit of the client's patient data handling against national health data protection regulations.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      4,
+      5,
+      7
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R05",
+    "category": "Scope",
+    "requirement": "Benchmark network operational performance against a minimum of five peer-level international hospital groups.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "the firm will benchmark our network's operational performance against a minimum of five peer-level international hospital groups to identify gaps and best-in-class practices.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Benchmarking network operational performance against a minimum of five peer-level international hospital groups.",
+    "reasoning": "While slide 15 mentions a proprietary database covering 200+ hospitals globally, the proposal slides never commit to performing a specific benchmark against a minimum of five peer-level international hospital groups as requested.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      15,
+      4,
+      16
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R06",
+    "category": "Scope",
+    "requirement": "Recommend a digital front-door strategy including online appointment booking, a symptom-triage chatbot, and a branded patient mobile app.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "The partner will recommend a comprehensive digital front-door strategy, which must include specifications for online appointment booking systems, an integrated symptom-triage chatbot, and a branded patient mobile application.",
+    "status": "Partially covered",
+    "slides": [
+      7
+    ],
+    "evidence": "Develop requirements for a seamless online appointment booking platform.\n- Create a patient mobile app to enhance service interaction.",
+    "evidence_check": "verified",
+    "missing": "symptom-triage chatbot",
+    "reasoning": "The slides commit to online appointment booking and a branded patient mobile app, but completely omit the symptom-triage chatbot requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      7,
+      4,
+      5
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R07",
+    "category": "Scope",
+    "requirement": "Develop a workforce scheduling optimization model tailored for doctors and nurses.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "Additionally, the Supplier is tasked with developing a robust workforce scheduling optimization model specifically tailored for our doctors and nurses.",
+    "status": "Partially covered",
+    "slides": [
+      8
+    ],
+    "evidence": "Engineer a robust system for managing clinical staff rotations.",
+    "evidence_check": "verified",
+    "missing": "Tailored specifically for both doctors and nurses (only clinical staff rotations are mentioned without explicit inclusion of both doctors and nurses).",
+    "reasoning": "Slide 8 commits to engineering a robust system for managing clinical staff rotations, but the requirement specifies tailoring for both doctors and nurses explicitly.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      8,
+      13,
+      4
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R08",
+    "category": "Scope",
+    "requirement": "Design a formal program governance model with a dedicated steering board and monthly KPI reviews.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "Bidders must design a formal program governance model, incorporating a dedicated steering board and a cadence for monthly KPI reviews.",
+    "status": "Covered",
+    "slides": [
+      9
+    ],
+    "evidence": "Establish an executive steering board for high-level oversight.\n- Review performance indicators through monthly leadership meetings.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 9 explicitly commits to establishing an executive steering board and reviewing performance indicators (KPIs) through monthly meetings.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      14,
+      12
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R09",
+    "category": "Scope",
+    "requirement": "Provide a detailed change management and training plan directed at all frontline staff members.",
+    "rfp_section": "2. Scope of Services",
+    "rfp_quote": "Furthermore, the partner will provide a detailed change management and training plan directed at all frontline staff members operating across our full network of hospitals and clinics.",
+    "status": "Partially covered",
+    "slides": [
+      10
+    ],
+    "evidence": "Launch a dedicated training academy for nursing staff.",
+    "evidence_check": "verified",
+    "missing": "A detailed change management plan and training for all frontline staff members (not just nursing staff) across the full network of hospitals and clinics.",
+    "reasoning": "Slide 10 mentions training specifically for nursing staff rather than all frontline staff, and there is no mention of a detailed change management plan.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      16,
+      8,
+      15
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R10",
+    "category": "Deliverable",
+    "requirement": "Deliver a baseline diagnostic report covering current patient experience and operations.",
+    "rfp_section": "3. Deliverables",
+    "rfp_quote": "3.1 Baseline diagnostic report covering the current state of patient experience and operations.",
+    "status": "Covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Comprehensive baseline report on patient experience and operations.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 11 explicitly commits to delivering a comprehensive baseline report covering both patient experience and operations, directly addressing the client's requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      4,
+      5
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R11",
+    "category": "Deliverable",
+    "requirement": "Deliver a prioritised initiative roadmap including a cost-benefit estimate for every proposed initiative.",
+    "rfp_section": "3. Deliverables",
+    "rfp_quote": "3.2 A prioritised initiative roadmap, including a detailed cost-benefit estimate for every proposed initiative.",
+    "status": "Partially covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Prioritized sequence of initiatives for future implementation.",
+    "evidence_check": "verified",
+    "missing": "Cost-benefit estimate for every proposed initiative",
+    "reasoning": "Slide 11 commits to a prioritized sequence of initiatives, but the slides do not provide any cost-benefit estimate for each proposed initiative.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      12,
+      11
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R12",
+    "category": "Deliverable",
+    "requirement": "Deliver an interactive dashboard visualizing patient-experience KPIs and hand it over to the internal IT team.",
+    "rfp_section": "3. Deliverables",
+    "rfp_quote": "3.3 An interactive dashboard visualizing patient-experience KPIs, which must be fully handed over to our internal IT team upon completion.",
+    "status": "Covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Live performance cockpit transferred to your internal technology team.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 11 commits to delivering a live performance cockpit (interactive dashboard visualizing KPIs) and transferring it to the internal technology team.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      11,
+      4,
+      16
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R13",
+    "category": "Deliverable",
+    "requirement": "Provide the final report in both English and Arabic.",
+    "rfp_section": "3. Deliverables",
+    "rfp_quote": "3.4 To ensure accessibility across our stakeholder base, the final report must be provided in both English and Arabic.",
+    "status": "Partially covered",
+    "slides": [
+      13
+    ],
+    "evidence": "Analyst: Data science lead fluent in English and Arabic.",
+    "evidence_check": "verified",
+    "missing": "The proposal commits to having an analyst fluent in English and Arabic, but it does not commit to providing the final report itself in both English and Arabic.",
+    "reasoning": "Slide 13 mentions language fluency for a team member, but nowhere in the deck is there a commitment to deliver the final report in both English and Arabic.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      9,
+      12,
+      11
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R14",
+    "category": "Deliverable",
+    "requirement": "Provide weekly written progress updates to the project sponsor.",
+    "rfp_section": "3. Deliverables",
+    "rfp_quote": "3.5 The Supplier will provide weekly written progress updates directly to the project sponsor.",
+    "status": "Covered",
+    "slides": [
+      12
+    ],
+    "evidence": "Status updates provided every Thursday to the executive sponsor.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 12 commits to providing status updates every Thursday to the executive sponsor (project sponsor), fulfilling the weekly cadence and recipient requirements.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      12,
+      11,
+      14
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R15",
+    "category": "Timeline",
+    "requirement": "Complete the engagement within a maximum timeframe of 20 weeks.",
+    "rfp_section": "4. Timeline and Scheduling",
+    "rfp_quote": "The engagement is expected to be completed within a maximum timeframe of 20 weeks.",
+    "status": "Covered",
+    "slides": [
+      12
+    ],
+    "evidence": "The total engagement duration is 20 weeks.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 12 explicitly states that the total engagement duration is 20 weeks, which fully satisfies the requirement for a maximum timeframe of 20 weeks.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      12,
+      14,
+      6
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R16",
+    "category": "Timeline",
+    "requirement": "Begin on-site work within 10 working days following the contract award.",
+    "rfp_section": "4. Timeline and Scheduling",
+    "rfp_quote": "Following the contract award, the Supplier must begin on-site work within 10 working days.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "The timeline requirement to begin on-site work within 10 working days following contract award is not mentioned in the proposal.",
+    "reasoning": "The proposal slides outline a 20-week workplan starting with Phase 1 (Listen), but they do not contain any commitment regarding starting on-site work within 10 working days of contract award.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      12,
+      14,
+      6
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R17",
+    "category": "Timeline",
+    "requirement": "Present interim findings no later than week 10 of the project.",
+    "rfp_section": "4. Timeline and Scheduling",
+    "rfp_quote": "Furthermore, the partner is required to present their interim findings no later than week 10 of the project.",
+    "status": "Covered",
+    "slides": [
+      12
+    ],
+    "evidence": "Mid-programme readout of results occurs in week 10.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 12 explicitly commits to delivering a mid-programme readout of results in week 10, which matches the requirement to present interim findings no later than week 10.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      12,
+      11,
+      9
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R18",
+    "category": "Proposal requirement",
+    "requirement": "Provide a minimum of three references from healthcare clients located within the GCC region.",
+    "rfp_section": "5. Commercial and Submission Requirements",
+    "rfp_quote": "5.1 Bidders must provide a minimum of three references from healthcare clients located within the GCC region.",
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "evidence_check": "n/a",
+    "missing": "Minimum of three references from healthcare clients located within the GCC region",
+    "reasoning": "The proposal states that 'Client references are available upon request' on Slide 15, but does not actually provide the three required healthcare references from the GCC region within the slides.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      14,
+      3,
+      15
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R19",
+    "category": "Proposal requirement",
+    "requirement": "Structure the pricing model as a fixed fee with an option for milestone-based payments.",
+    "rfp_section": "5. Commercial and Submission Requirements",
+    "rfp_quote": "5.2 The pricing model must be structured as a fixed fee, with the inclusion of an option for milestone-based payments.",
+    "status": "Covered",
+    "slides": [
+      14
+    ],
+    "evidence": "Proposed fixed fee covers the total scope of engagement. Payment schedule aligned to defined milestones.",
+    "evidence_check": "verified",
+    "missing": "",
+    "reasoning": "Slide 14 commits to a fixed fee structure and includes a payment schedule aligned to milestones, satisfying both parts of the requirement.",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      14,
+      7,
+      8
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "R20",
+    "category": "Proposal requirement",
+    "requirement": "Name a dedicated clinical advisor with at least 10 years of professional hospital experience.",
+    "rfp_section": "5. Commercial and Submission Requirements",
+    "rfp_quote": "5.3 The bidding firm is required to name a dedicated clinical advisor who possesses at least 10 years of professional hospital experience.",
+    "status": "Partially covered",
+    "slides": [
+      13
+    ],
+    "evidence": "Clinical Advisor: Former hospital CMO with 15 years experience.",
+    "evidence_check": "verified",
+    "missing": "The proposal names a clinical advisor with 15 years of experience, but fails to explicitly name the individual.",
+    "reasoning": "Slide 13 provides a role description ('Clinical Advisor: Former hospital CMO with 15 years experience') which satisfies the experience criterion, but it does not actually name the person as required by the RFP ('name a dedicated clinical advisor').",
+    "confidence": "High",
+    "needs_review": false,
+    "review_reasons": "",
+    "top_retrieved": [
+      13,
+      8,
+      4
+    ],
+    "model": "gemini-3.5-flash-lite"
+  }
+]

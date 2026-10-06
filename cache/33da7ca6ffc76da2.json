@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Partially covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Includes a formal mid-point checkpoint with leadership sponsors in week 8.",
+    "missing": "Reviewing initial use-case prioritisation and adjusting project trajectories as necessary.",
+    "reasoning": "Slide 11 commits to a mid-point checkpoint in week 8 with leadership sponsors, but does not mention reviewing initial use-case prioritisation or adjusting project trajectories.",
+    "confidence": "High"
+  }
+}

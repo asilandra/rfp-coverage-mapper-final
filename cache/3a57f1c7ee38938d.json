@@ -1,0 +1,13 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "missing": "Developing a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "reasoning": "The proposal slides mention AI strategy, roadmaps, opportunities, and general ethical standards of the firm, but do not commit to developing a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "confidence": "High"
+  }
+}

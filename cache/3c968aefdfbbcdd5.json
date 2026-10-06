@@ -1,0 +1,205 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "deck-attempt-1",
+  "prompt_preview": "\nYou are a consultant at Meridian Advisory (a fictional firm) writing a proposal deck\nfor Qamar Logistics Group on \"AI Transformation Strategy & Roadmap\".\n\nWrite the text for EXACTLY 15 slides, following each brief closely.\nRules:\n- Use confident consulting language and your OWN vocabulary.\n- Never ",
+  "response": {
+    "slides": [
+      {
+        "slide_number": 1,
+        "title": "AI Transformation Strategy & Roadmap",
+        "bullets": [
+          "Proposal to Qamar Logistics Group",
+          "Submitted by Meridian Advisory | October 2026"
+        ],
+        "notes": "Welcome the Qamar Logistics team and introduce the purpose of today's proposal presentation.",
+        "table": null
+      },
+      {
+        "slide_number": 2,
+        "title": "About Meridian Advisory",
+        "bullets": [
+          "We are a specialized consultancy focused on emerging technology strategies and operational excellence.",
+          "Our firm's foundation rests on unwavering integrity and absolute ethical standards.",
+          "We champion responsible conduct in every professional interaction and internal practice."
+        ],
+        "notes": "Highlight our core values of integrity and responsible conduct as the bedrock of our firm.",
+        "table": null
+      },
+      {
+        "slide_number": 3,
+        "title": "Our understanding of your context",
+        "bullets": [
+          "Qamar Logistics faces rapid regional expansion across multiple transport and trade corridors.",
+          "Intense competition from agile, digital-first logistics players is compressing traditional margins.",
+          "Operations rely heavily on fragmented legacy systems that hinder centralized visibility."
+        ],
+        "notes": "Reflect back Qamar's current market pressures and infrastructural hurdles.",
+        "table": null
+      },
+      {
+        "slide_number": 4,
+        "title": "Our approach at a glance",
+        "bullets": [
+          "Diagnose: Assess current capabilities and technical baselines.",
+          "Discover: Identify and evaluate prospective high-value opportunities.",
+          "Design: Architect the operating structures and long-term trajectory.",
+          "Deliver: Build rapid prototypes to test viability in the field."
+        ],
+        "notes": "Walk through the four sequential phases of our methodology without getting into timeline details.",
+        "table": null
+      },
+      {
+        "slide_number": 5,
+        "title": "Phase 1 - Diagnose",
+        "bullets": [
+          "Evaluate readiness baselines across Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services.",
+          "Conduct stakeholder interviews and execute a structured capability scorecard across divisions.",
+          "Audit technical data platforms, cloud infrastructure, and existing system integration frameworks."
+        ],
+        "notes": "Detail our dual focus on operational division readiness and core technical infrastructure.",
+        "table": null
+      },
+      {
+        "slide_number": 6,
+        "title": "Phase 2 - Discover",
+        "bullets": [
+          "Build a comprehensive long-list of 25+ AI opportunities spanning the entire enterprise footprint.",
+          "Score each opportunity rigorously based on business value versus ease of implementation.",
+          "Size each AI play with an indicative EBITDA uplift model to prioritize high-impact initiatives."
+        ],
+        "notes": "Explain how we generate, evaluate, and financialize prospective AI plays.",
+        "table": null
+      },
+      {
+        "slide_number": 7,
+        "title": "Phase 3 - Design",
+        "bullets": [
+          "Architect a centralized AI hub and define new technical roles like AI product owners and machine learning engineers.",
+          "Establish clear decision-making rights and accountability frameworks for enterprise artificial intelligence.",
+          "Develop a sequenced three-year roadmap structured into distinct execution waves."
+        ],
+        "notes": "Outline the structural governance and phased roadmap design.",
+        "table": null
+      },
+      {
+        "slide_number": 8,
+        "title": "Phase 4 - Deliver",
+        "bullets": [
+          "Construct two rapid minimum viable products targeting the highest-ranked operational opportunities.",
+          "Deploy prototypes with real frontline users to evaluate operational utility and user adoption.",
+          "Deliver a definitive go/no-go recommendation for full-scale enterprise deployment."
+        ],
+        "notes": "Emphasize empirical testing through rapid prototyping before broad scaling.",
+        "table": null
+      },
+      {
+        "slide_number": 9,
+        "title": "Building AI capabilities",
+        "bullets": [
+          "Design and execute tailored AI awareness workshops exclusively for the senior leadership team.",
+          "Align executive stakeholders on strategic priorities, risks, and artificial intelligence opportunities.",
+          "Foster executive fluency to ensure informed sponsorship of future technical initiatives."
+        ],
+        "notes": "Clarify that capability building at this stage focuses strictly on senior leadership alignment.",
+        "table": null
+      },
+      {
+        "slide_number": 10,
+        "title": "What you will receive",
+        "bullets": [
+          "A comprehensive baseline diagnostic report detailing today's operational and technical position.",
+          "A fully ranked opportunity portfolio complete with EBITDA impact sizing.",
+          "A final strategic presentation and executive briefing session with the Executive Board."
+        ],
+        "notes": "Summarize the tangible outputs and executive-level deliverables from our engagement.",
+        "table": null
+      },
+      {
+        "slide_number": 11,
+        "title": "Workplan",
+        "bullets": [
+          "Structured 16-week engagement plan designed for rapid insight generation and strategic delivery.",
+          "Includes a formal mid-point checkpoint with leadership sponsors in week 8."
+        ],
+        "notes": "Review the high-level timeline and critical milestone review points.",
+        "table": {
+          "headers": [
+            "Weeks",
+            "Phase",
+            "Key activities"
+          ],
+          "rows": [
+            [
+              "Weeks 1-4",
+              "Diagnose",
+              "Readiness assessment, stakeholder interviews, technical data audit."
+            ],
+            [
+              "Weeks 5-8",
+              "Discover",
+              "Opportunity ideation, scoring matrix development, EBITDA sizing."
+            ],
+            [
+              "Weeks 9-13",
+              "Design",
+              "Hub design, role definitions, 3-year wave roadmap creation."
+            ],
+            [
+              "Weeks 14-16",
+              "Deliver",
+              "MVP development, user testing, scaling recommendations."
+            ]
+          ]
+        }
+      },
+      {
+        "slide_number": 12,
+        "title": "Proposed team",
+        "bullets": [
+          "Tariq Al-Hashemi (Partner) - Engagement Lead with 18 years in logistics technology advisory.",
+          "Dr. Elena Vance (Director) - AI Strategy & Analytics Lead specializing in predictive modeling.",
+          "Marcus Sterling (Senior Manager) - Data Architecture & Cloud Infrastructure Specialist.",
+          "Nadia Karim (Manager) - Enterprise Operations & Value Realization Lead.",
+          "Full curriculum vitae documents for all team members are provided in the appendix."
+        ],
+        "notes": "Present the senior leadership team assigned to deliver the Qamar engagement.",
+        "table": null
+      },
+      {
+        "slide_number": 13,
+        "title": "Commercial proposal",
+        "bullets": [
+          "Fixed fees per phase: Diagnose (AED 350,000), Discover (AED 450,000), Design (AED 500,000), Deliver (AED 400,000).",
+          "Total engagement fee: AED 1,700,000 excluding reimbursable expenses.",
+          "Payment structure: 30% upon agreement signature, with subsequent installments tied to phase completions.",
+          "Our professional fees are fully benchmarked against prevailing regional market rates for tier-one advisory."
+        ],
+        "notes": "Outline the commercial terms, fixed phase pricing, and payment milestones.",
+        "table": null
+      },
+      {
+        "slide_number": 14,
+        "title": "Relevant experience",
+        "bullets": [
+          "Delivered a comprehensive AI roadmap for a major regional GCC bank for another client.",
+          "Identified and prioritized high-impact AI use cases for a leading Saudi retail enterprise.",
+          "Designed an advanced natural language processing chatbot for a public sector government entity."
+        ],
+        "notes": "Provide context on our proven track record with external clients in similar domains.",
+        "table": null
+      },
+      {
+        "slide_number": 15,
+        "title": "Why Meridian and next steps",
+        "bullets": [
+          "Deep domain expertise combining regional logistics context with world-class artificial intelligence capabilities.",
+          "Rigorous, independent methodology focused on measurable EBITDA uplift and operational pragmatism.",
+          "Committed leadership team dedicated to sustainable capability transfer and client empowerment.",
+          "We welcome the opportunity to discuss this proposal further and schedule a follow-up meeting."
+        ],
+        "notes": "Conclude with our key differentiators and a call to action for the next discussion.",
+        "table": null
+      }
+    ]
+  }
+}

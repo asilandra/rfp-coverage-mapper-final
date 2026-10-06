@@ -1,0 +1,174 @@
+[
+  {
+    "id": "S1",
+    "category": "Scope",
+    "text": "Assess the current AI and analytics maturity of all five business units (Ports, Freight, Warehousing, Customs Brokerage, Corporate Services).",
+    "expected_status": "Covered",
+    "expected_slides": [
+      5
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S2",
+    "category": "Scope",
+    "text": "Identify at least 20 AI use cases and prioritise them by business value and feasibility, with an estimated financial impact for each.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      6
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S3",
+    "category": "Scope",
+    "text": "Assess the readiness of the group's data infrastructure AND its data governance (data ownership, data quality standards and data policies).",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      5
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S4",
+    "category": "Scope",
+    "text": "Benchmark the group's AI maturity against at least three regional and global logistics peers.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S5",
+    "category": "Scope",
+    "text": "Design an AI target operating model, including an AI Centre of Excellence, key roles and decision rights.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      7
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S6",
+    "category": "Scope",
+    "text": "Develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S7",
+    "category": "Scope",
+    "text": "Design a change management and AI upskilling programme reaching approximately 500 employees.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      9
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "S8",
+    "category": "Scope",
+    "text": "Deliver two proof-of-concept pilots for top-priority use cases.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      8
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "D1",
+    "category": "Deliverable",
+    "text": "A current-state assessment report.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      10
+    ],
+    "rfp_section": "4. Required Deliverables"
+  },
+  {
+    "id": "D2",
+    "category": "Deliverable",
+    "text": "A prioritised AI use-case portfolio.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      10
+    ],
+    "rfp_section": "4. Required Deliverables"
+  },
+  {
+    "id": "D3",
+    "category": "Deliverable",
+    "text": "A three-year AI roadmap including investment estimates by year.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      7
+    ],
+    "rfp_section": "4. Required Deliverables"
+  },
+  {
+    "id": "D4",
+    "category": "Deliverable",
+    "text": "A final presentation to the Executive Board.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      10
+    ],
+    "rfp_section": "4. Required Deliverables"
+  },
+  {
+    "id": "D5",
+    "category": "Deliverable",
+    "text": "All final deliverables provided in both Arabic and English.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "rfp_section": "4. Required Deliverables"
+  },
+  {
+    "id": "T1",
+    "category": "Timeline",
+    "text": "Complete the full engagement within 16 weeks.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      11
+    ],
+    "rfp_section": "2. Scope of Work and Objectives"
+  },
+  {
+    "id": "T2",
+    "category": "Timeline",
+    "text": "Hold an interim Steering Committee review at week 8.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      11
+    ],
+    "rfp_section": "3. Project Timeline and Governance"
+  },
+  {
+    "id": "T3",
+    "category": "Timeline",
+    "text": "Mobilise the team and hold the project kick-off within two weeks of contract signature.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "rfp_section": "3. Project Timeline and Governance"
+  },
+  {
+    "id": "C1",
+    "category": "Proposal requirement",
+    "text": "Provide CVs of the proposed team, including at least two Arabic-speaking consultants.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      12
+    ],
+    "rfp_section": "5. Proposal Submission Requirements"
+  },
+  {
+    "id": "C2",
+    "category": "Proposal requirement",
+    "text": "Provide fixed-fee pricing broken down by project phase.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      13
+    ],
+    "rfp_section": "5. Proposal Submission Requirements"
+  }
+]

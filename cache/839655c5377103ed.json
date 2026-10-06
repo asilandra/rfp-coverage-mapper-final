@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      11
+    ],
+    "evidence": "Structured 16-week engagement plan designed for rapid insight generation and strategic delivery.",
+    "missing": "",
+    "reasoning": "Slide 11 explicitly commits to a structured 16-week engagement plan, fully addressing the 16-week completion timeline requirement.",
+    "confidence": "High"
+  }
+}

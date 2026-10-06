@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      14
+    ],
+    "evidence": "Proposed fixed fee covers the total scope of engagement. Payment schedule aligned to defined milestones.",
+    "missing": "",
+    "reasoning": "Slide 14 commits to a fixed fee structure and includes a payment schedule aligned to milestones, satisfying both parts of the requirement.",
+    "confidence": "High"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Partially covered",
+    "slides": [
+      13
+    ],
+    "evidence": "Analyst: Data science lead fluent in English and Arabic.",
+    "missing": "The proposal commits to having an analyst fluent in English and Arabic, but it does not commit to providing the final report itself in both English and Arabic.",
+    "reasoning": "Slide 13 mentions language fluency for a team member, but nowhere in the deck is there a commitment to deliver the final report in both English and Arabic.",
+    "confidence": "High"
+  }
+}

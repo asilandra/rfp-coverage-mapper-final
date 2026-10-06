@@ -1,0 +1,6 @@
+{
+  "judge_model": "gemini-3.5-flash-lite",
+  "cache_tag": "judge-final",
+  "requirements": 21,
+  "retrieval": "embeddings (all-mpnet-base-v2)"
+}

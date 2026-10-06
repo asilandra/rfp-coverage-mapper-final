@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      5
+    ],
+    "evidence": "Map end-to-end care pathways across all sixteen facilities.",
+    "missing": "",
+    "reasoning": "Slide 5 commits to mapping care pathways across all sixteen facilities (which equals 4 hospitals and 12 outpatient clinics), fulfilling the comprehensive mapping requirement.",
+    "confidence": "High"
+  }
+}

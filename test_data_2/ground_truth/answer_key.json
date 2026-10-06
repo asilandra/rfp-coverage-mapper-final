@@ -1,0 +1,194 @@
+[
+  {
+    "id": "S1",
+    "category": "Scope",
+    "text": "Map the current patient journeys across all 4 hospitals and 12 outpatient clinics in the network.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      5
+    ],
+    "planted_quote": "The Supplier will execute a comprehensive mapping of existing patient journeys throughout our entire network of 4 hospitals and 12 outpatient clinics."
+  },
+  {
+    "id": "S2",
+    "category": "Scope",
+    "text": "Analyse waiting-time data for BOTH emergency departments AND outpatient services over the last 24 months.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      6
+    ],
+    "planted_quote": "Simultaneously, bidders are required to perform a rigorous analysis of waiting-time data covering the previous 24 months for both our emergency departments and outpatient services."
+  },
+  {
+    "id": "S3",
+    "category": "Scope",
+    "text": "Conduct at least 60 interviews with patients and clinical staff.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      5
+    ],
+    "planted_quote": "To ensure a qualitative understanding of these metrics, the engagement must involve conducting no fewer than 60 in-depth interviews with our patients and clinical staff members."
+  },
+  {
+    "id": "S4",
+    "category": "Scope",
+    "text": "Assess whether the client's handling of patient data complies with national health data protection regulations.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "planted_quote": "It is expected that the partner will conduct a thorough audit to assess whether our current handling of patient data strictly adheres to all applicable national health data protection regulations."
+  },
+  {
+    "id": "S5",
+    "category": "Scope",
+    "text": "Recommend a digital front-door strategy covering online appointment booking, a symptom-triage chatbot and a patient mobile app.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      7
+    ],
+    "planted_quote": "The partner will recommend a comprehensive digital front-door strategy, which must include specifications for online appointment booking systems, an integrated symptom-triage chatbot, and a branded patient mobile application."
+  },
+  {
+    "id": "S6",
+    "category": "Scope",
+    "text": "Develop a workforce scheduling optimisation model for doctors and nurses.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      8
+    ],
+    "planted_quote": "Additionally, the Supplier is tasked with developing a robust workforce scheduling optimization model specifically tailored for our doctors and nurses."
+  },
+  {
+    "id": "S7",
+    "category": "Scope",
+    "text": "Benchmark the network's operational performance against at least five international hospital groups.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "planted_quote": "Furthermore, the firm will benchmark our network's operational performance against a minimum of five peer-level international hospital groups to identify gaps and best-in-class practices."
+  },
+  {
+    "id": "S8",
+    "category": "Scope",
+    "text": "Design a programme governance model with a steering board and monthly KPI reviews.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      9
+    ],
+    "planted_quote": "Bidders must design a formal program governance model, incorporating a dedicated steering board and a cadence for monthly KPI reviews."
+  },
+  {
+    "id": "S9",
+    "category": "Scope",
+    "text": "Provide a change management and training plan for frontline staff at ALL hospitals AND clinics.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      10
+    ],
+    "planted_quote": "Furthermore, the partner will provide a detailed change management and training plan directed at all frontline staff members operating across our full network of hospitals and clinics."
+  },
+  {
+    "id": "D1",
+    "category": "Deliverable",
+    "text": "A baseline diagnostic report on current patient experience and operations.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      11
+    ],
+    "planted_quote": "3.1 Baseline diagnostic report covering the current state of patient experience and operations."
+  },
+  {
+    "id": "D2",
+    "category": "Deliverable",
+    "text": "A prioritised initiative roadmap with a cost-benefit estimate for each initiative.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      11
+    ],
+    "planted_quote": "3.2 A prioritised initiative roadmap, including a detailed cost-benefit estimate for every proposed initiative."
+  },
+  {
+    "id": "D3",
+    "category": "Deliverable",
+    "text": "An interactive dashboard of patient-experience KPIs, handed over to the client's IT team.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      11
+    ],
+    "planted_quote": "3.3 An interactive dashboard visualizing patient-experience KPIs, which must be fully handed over to our internal IT team upon completion."
+  },
+  {
+    "id": "D4",
+    "category": "Deliverable",
+    "text": "The final report delivered in both English and Arabic.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "planted_quote": "3.4 To ensure accessibility across our stakeholder base, the final report must be provided in both English and Arabic."
+  },
+  {
+    "id": "D5",
+    "category": "Deliverable",
+    "text": "Weekly written progress updates to the project sponsor.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      12
+    ],
+    "planted_quote": "3.5 The Supplier will provide weekly written progress updates directly to the project sponsor."
+  },
+  {
+    "id": "T1",
+    "category": "Timeline",
+    "text": "Complete the engagement within 20 weeks.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      12
+    ],
+    "planted_quote": "The engagement is expected to be completed within a maximum timeframe of 20 weeks."
+  },
+  {
+    "id": "T2",
+    "category": "Timeline",
+    "text": "Present interim findings by week 10.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      12
+    ],
+    "planted_quote": "Furthermore, the partner is required to present their interim findings no later than week 10 of the project."
+  },
+  {
+    "id": "T3",
+    "category": "Timeline",
+    "text": "Start on-site work within 10 working days of contract award.",
+    "expected_status": "Not covered",
+    "expected_slides": [],
+    "planted_quote": "Following the contract award, the Supplier must begin on-site work within 10 working days."
+  },
+  {
+    "id": "C1",
+    "category": "Proposal requirement",
+    "text": "Provide at least three references from healthcare clients in the GCC region.",
+    "expected_status": "Partially covered",
+    "expected_slides": [
+      15
+    ],
+    "planted_quote": "5.1 Bidders must provide a minimum of three references from healthcare clients located within the GCC region."
+  },
+  {
+    "id": "C2",
+    "category": "Proposal requirement",
+    "text": "Price the work as a fixed fee, with an option for milestone-based payments.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      14
+    ],
+    "planted_quote": "5.2 The pricing model must be structured as a fixed fee, with the inclusion of an option for milestone-based payments."
+  },
+  {
+    "id": "C3",
+    "category": "Proposal requirement",
+    "text": "Name a dedicated clinical advisor with at least 10 years of hospital experience.",
+    "expected_status": "Covered",
+    "expected_slides": [
+      13
+    ],
+    "planted_quote": "5.3 The bidding firm is required to name a dedicated clinical advisor who possesses at least 10 years of professional hospital experience."
+  }
+]

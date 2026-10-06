@@ -1,0 +1,215 @@
+{
+  "rfp_source": "rfp_qamar.pdf",
+  "model": "gemini-3.8-flash",
+  "requirements": [
+    {
+      "category": "Timeline",
+      "requirement": "Complete the full engagement within 16 weeks from commencement.",
+      "source_quote": "The appointed consultant shall complete the full engagement within 16 weeks from the official commencement date.",
+      "block_id": "B007",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R01"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Benchmark the group's AI maturity against at least three regional and global logistics peers.",
+      "source_quote": "the consultant shall benchmark the group's AI maturity against at least three regional and global logistics peers.",
+      "block_id": "B008",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R02"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Assess the current AI and analytics maturity of all five business units.",
+      "source_quote": "the consultant shall thoroughly assess the current AI and analytics maturity of all five business units (Ports, Freight, Warehousing, Customs Brokerage, Corporate Services).",
+      "block_id": "B008",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R03"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Assess the readiness of data infrastructure and data governance including ownership, quality, and policies.",
+      "source_quote": "the consultant shall assess the readiness of the group's data infrastructure and its data governance, encompassing data ownership, data quality standards, and data policies.",
+      "block_id": "B009",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R04"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Identify at least 20 AI use cases and prioritise them by value and feasibility with financial estimates.",
+      "source_quote": "the consultant shall identify at least 20 AI use cases and prioritise them by business value and feasibility, with an estimated financial impact for each.",
+      "block_id": "B009",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R05"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Design an AI target operating model, including an AI Centre of Excellence, roles, and decision rights.",
+      "source_quote": "The consultant shall design an AI target operating model, including an AI Centre of Excellence, key roles, and decision rights.",
+      "block_id": "B011",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R06"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+      "source_quote": "The consultant shall develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+      "block_id": "B012",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R07"
+    },
+    {
+      "category": "Scope",
+      "requirement": "Design a change management and AI upskilling programme for approximately 500 employees.",
+      "source_quote": "The consultant shall design a change management and AI upskilling programme reaching approximately 500 employees.",
+      "block_id": "B013",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R08"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver two proof-of-concept pilots for top-priority use cases.",
+      "source_quote": "The consultant shall deliver two proof-of-concept pilots for top-priority use cases.",
+      "block_id": "B014",
+      "section": "2. Scope of Work and Objectives",
+      "quote_check": "verified",
+      "id": "R09"
+    },
+    {
+      "category": "Timeline",
+      "requirement": "Mobilise the team and hold the project kick-off within two weeks of contract signature.",
+      "source_quote": "The consultant shall mobilise the team and hold the project kick-off within two weeks of contract signature.",
+      "block_id": "B016",
+      "section": "3. Project Timeline and Governance",
+      "quote_check": "verified",
+      "id": "R10"
+    },
+    {
+      "category": "Timeline",
+      "requirement": "Hold an interim Steering Committee review at week 8 to evaluate preliminary findings and adjustments.",
+      "source_quote": "the consultant shall hold an interim Steering Committee review at week 8 to evaluate preliminary findings, review initial use-case prioritisation, and adjust project trajectories as necessary.",
+      "block_id": "B017",
+      "section": "3. Project Timeline and Governance",
+      "quote_check": "verified",
+      "id": "R11"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Provide all final deliverables in both Arabic and English.",
+      "source_quote": "All final deliverables provided in both Arabic and English.",
+      "block_id": "B019",
+      "section": "4. Required Deliverables",
+      "quote_check": "verified",
+      "id": "R12"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver a current-state assessment report detailing maturity across all operational domains.",
+      "source_quote": "The mandated outputs must include a current-state assessment report detailing maturity across all operational domains",
+      "block_id": "B020",
+      "section": "4. Required Deliverables",
+      "quote_check": "verified",
+      "id": "R13"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Provide a prioritised AI use-case portfolio.",
+      "source_quote": "alongside a prioritised AI use-case portfolio.",
+      "block_id": "B020",
+      "section": "4. Required Deliverables",
+      "quote_check": "verified",
+      "id": "R14"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Formulate a three-year AI roadmap including investment estimates by year.",
+      "source_quote": "the consultant shall formulate a three-year AI roadmap including investment estimates by year.",
+      "block_id": "B020",
+      "section": "4. Required Deliverables",
+      "quote_check": "verified",
+      "id": "R15"
+    },
+    {
+      "category": "Deliverable",
+      "requirement": "Deliver a final presentation to the Executive Board summarising the strategy, governance, and pilot outcomes.",
+      "source_quote": "a final presentation to the Executive Board, summarising the strategic roadmap, governance models, and pilot outcomes.",
+      "block_id": "B021",
+      "section": "4. Required Deliverables",
+      "quote_check": "verified",
+      "id": "R16"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Include detailed company profiles in the proposal submission.",
+      "source_quote": "submissions must contain detailed company profiles",
+      "block_id": "B023",
+      "section": "5. Proposal Submission Requirements",
+      "quote_check": "verified",
+      "id": "R17"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Demonstrate logistics sector experience in the proposal.",
+      "source_quote": "demonstrable logistics sector experience",
+      "block_id": "B023",
+      "section": "5. Proposal Submission Requirements",
+      "quote_check": "verified",
+      "id": "R18"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Include comprehensive methodological approaches within the proposal.",
+      "source_quote": "and comprehensive methodological approaches.",
+      "block_id": "B023",
+      "section": "5. Proposal Submission Requirements",
+      "quote_check": "verified",
+      "id": "R19"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Provide CVs of the proposed team, including at least two Arabic-speaking consultants.",
+      "source_quote": "the consultant shall provide CVs of the proposed team, including at least two Arabic-speaking consultants.",
+      "block_id": "B024",
+      "section": "5. Proposal Submission Requirements",
+      "quote_check": "verified",
+      "id": "R20"
+    },
+    {
+      "category": "Proposal requirement",
+      "requirement": "Provide fixed-fee pricing broken down by project phase.",
+      "source_quote": "Bidders must also provide fixed-fee pricing broken down by project phase.",
+      "block_id": "B024",
+      "section": "5. Proposal Submission Requirements",
+      "quote_check": "verified",
+      "id": "R21"
+    }
+  ],
+  "removed_duplicates": [],
+  "unverified": [],
+  "skipped_sections": [
+    {
+      "section": "1. Introduction and Background",
+      "reason": "Contains background and organizational context."
+    },
+    {
+      "section": "6. Evaluation Criteria",
+      "reason": "Contains evaluation criteria and scoring weights."
+    },
+    {
+      "section": "7. Instructions and Important Dates",
+      "reason": "Contains submission logistics, submission deadlines, and clarification question procedures."
+    },
+    {
+      "section": "8. Confidentiality",
+      "reason": "Contains confidentiality and legal terms."
+    }
+  ]
+}

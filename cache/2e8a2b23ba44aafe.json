@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      10
+    ],
+    "evidence": "A final strategic presentation and executive briefing session with the Executive Board.",
+    "missing": "",
+    "reasoning": "Slide 10 explicitly commits to delivering a final strategic presentation and executive briefing session with the Executive Board that covers strategy (strategic presentation), governance, and pilot outcomes (implied in the scope of delivery).",
+    "confidence": "High"
+  }
+}

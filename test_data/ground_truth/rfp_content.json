@@ -1,0 +1,101 @@
+{
+  "title": "Request for Proposal: AI Transformation Strategy & Roadmap",
+  "reference": "QLG-RFP-2026-089",
+  "sections": [
+    {
+      "heading": "1. Introduction and Background",
+      "paragraphs": [
+        "Qamar Logistics Group, headquartered in Dubai, United Arab Emirates, is a premier provider of integrated supply chain solutions across the Middle East and globally. Operating through five core business units\u2014specifically Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services\u2014we strive to maintain our competitive edge through continuous technological innovation and operational excellence.",
+        "To accelerate our strategic vision and harness the power of artificial intelligence, Qamar Logistics Group is formally inviting qualified management and technology consulting firms to submit comprehensive proposals for our upcoming AI Transformation Strategy & Roadmap engagement. The selected partner will work closely with our executive leadership team to lay a robust, secure, and scalable foundation for enterprise-wide artificial intelligence integration."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "2. Scope of Work and Objectives",
+      "paragraphs": [
+        "The primary objective of this engagement is to formulate a comprehensive, actionable, and value-driven artificial intelligence strategy that aligns seamlessly with Qamar Logistics Group's overarching corporate goals. The appointed consultant shall complete the full engagement within 16 weeks from the official commencement date.",
+        "As part of the foundational diagnostic phase, the consultant shall benchmark the group's AI maturity against at least three regional and global logistics peers. Furthermore, the consultant shall thoroughly assess the current AI and analytics maturity of all five business units (Ports, Freight, Warehousing, Customs Brokerage, Corporate Services).",
+        "Data integrity and foundational readiness are critical to our success. Therefore, the consultant shall assess the readiness of the group's data infrastructure and its data governance, encompassing data ownership, data quality standards, and data policies. Building upon these diagnostic findings, the consultant shall identify at least 20 AI use cases and prioritise them by business value and feasibility, with an estimated financial impact for each.",
+        "To ensure sustainable execution, operational governance, and organizational alignment, the scope extends to structural and ethical frameworks as follows:"
+      ],
+      "bullets": [
+        "The consultant shall design an AI target operating model, including an AI Centre of Excellence, key roles, and decision rights.",
+        "The consultant shall develop a Responsible AI framework aligned with the UAE's national AI ethics principles.",
+        "The consultant shall design a change management and AI upskilling programme reaching approximately 500 employees.",
+        "The consultant shall deliver two proof-of-concept pilots for top-priority use cases."
+      ]
+    },
+    {
+      "heading": "3. Project Timeline and Governance",
+      "paragraphs": [
+        "Time management and structured project governance are paramount to the successful delivery of this initiative. The consultant shall mobilise the team and hold the project kick-off within two weeks of contract signature.",
+        "To maintain rigorous oversight and alignment with executive stakeholders, the consultant shall hold an interim Steering Committee review at week 8 to evaluate preliminary findings, review initial use-case prioritisation, and adjust project trajectories as necessary."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "4. Required Deliverables",
+      "paragraphs": [
+        "Upon the conclusion of the project phases, the consultant shall provide a comprehensive suite of tangible outputs. All final deliverables provided in both Arabic and English.",
+        "The mandated outputs must include a current-state assessment report detailing maturity across all operational domains, alongside a prioritised AI use-case portfolio. Additionally, the consultant shall formulate a three-year AI roadmap including investment estimates by year.",
+        "The engagement will culminate formally with a final presentation to the Executive Board, summarising the strategic roadmap, governance models, and pilot outcomes."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "5. Proposal Submission Requirements",
+      "paragraphs": [
+        "Interested vendors are requested to submit their technical and financial proposals in accordance with the instructions detailed herein. To be considered responsive, submissions must contain detailed company profiles, demonstrable logistics sector experience, and comprehensive methodological approaches.",
+        "In addition, the consultant shall provide CVs of the proposed team, including at least two Arabic-speaking consultants. Bidders must also provide fixed-fee pricing broken down by project phase."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "6. Evaluation Criteria",
+      "paragraphs": [
+        "Proposals will be evaluated by a multidisciplinary committee at Qamar Logistics Group based on a rigorous, weighted scoring methodology. Submissions that fail to meet mandatory submission guidelines will be disqualified prior to detailed technical review."
+      ],
+      "bullets": [
+        "Technical Methodology & Approach (30%): Depth of the proposed diagnostic framework, use-case prioritisation methodology, and pilot execution strategy.",
+        "Team Experience & Qualifications (25%): Proven track record of the core team in logistics AI transformations, including bilingual capabilities.",
+        "Financial Proposal & Commercial Terms (25%): Competitiveness and clarity of the fixed-fee pricing model broken down by project phase.",
+        "Past Performance & References (20%): Quality and relevance of client references for similar regional or global digital transformation engagements."
+      ]
+    },
+    {
+      "heading": "7. Instructions and Important Dates",
+      "paragraphs": [
+        "All proposals must be submitted electronically via the Qamar Logistics Group procurement portal no later than 20 October 2026 at 17:00 Gulf Standard Time. Late submissions will not be reviewed under any circumstances.",
+        "Clarification questions regarding this RFP must be directed in writing to the designated procurement officer at least seven days prior to the submission deadline."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "8. Confidentiality",
+      "paragraphs": [
+        "All information, operational data, documents, and strategic insights provided by Qamar Logistics Group to prospective bidders\u2014whether written, oral, or visual\u2014are strictly confidential. The recipient consulting firm shall use such confidential information exclusively for the purpose of preparing a response to this Request for Proposal and shall not disclose it to any third party without prior written consent from Qamar Logistics Group. Upon request, all documentation must be securely returned or destroyed."
+      ],
+      "bullets": []
+    }
+  ],
+  "requirement_locations": {
+    "S1": "2. Scope of Work and Objectives",
+    "S2": "2. Scope of Work and Objectives",
+    "S3": "2. Scope of Work and Objectives",
+    "S4": "2. Scope of Work and Objectives",
+    "S5": "2. Scope of Work and Objectives",
+    "S6": "2. Scope of Work and Objectives",
+    "S7": "2. Scope of Work and Objectives",
+    "S8": "2. Scope of Work and Objectives",
+    "D1": "4. Required Deliverables",
+    "D2": "4. Required Deliverables",
+    "D3": "4. Required Deliverables",
+    "D4": "4. Required Deliverables",
+    "D5": "4. Required Deliverables",
+    "T1": "2. Scope of Work and Objectives",
+    "T2": "3. Project Timeline and Governance",
+    "T3": "3. Project Timeline and Governance",
+    "C1": "5. Proposal Submission Requirements",
+    "C2": "5. Proposal Submission Requirements"
+  }
+}

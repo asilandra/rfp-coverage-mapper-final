@@ -1,0 +1,13 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Not covered",
+    "slides": [],
+    "evidence": "",
+    "missing": "Minimum of three references from healthcare clients located within the GCC region",
+    "reasoning": "The proposal states that 'Client references are available upon request' on Slide 15, but does not actually provide the three required healthcare references from the GCC region within the slides.",
+    "confidence": "High"
+  }
+}
