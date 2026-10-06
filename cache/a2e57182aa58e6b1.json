@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      5
+    ],
+    "evidence": "Evaluate readiness baselines across Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services.",
+    "missing": "",
+    "reasoning": "Slide 5 explicitly commits to evaluating readiness baselines across all five specified business units (Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services), which directly addresses the requirement.",
+    "confidence": "High"
+  }
+}

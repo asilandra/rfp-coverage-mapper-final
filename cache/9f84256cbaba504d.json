@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Partially covered",
+    "slides": [
+      12
+    ],
+    "evidence": "Full curriculum vitae documents for all team members are provided in the appendix.",
+    "missing": "The slides mention providing CVs for all team members in the appendix, but they do not explicitly commit to including at least two Arabic-speaking consultants.",
+    "reasoning": "The proposal includes CVs for the team in the appendix (Slide 12), satisfying the first part of the requirement, but it fails to state or guarantee that at least two of the consultants are Arabic-speaking.",
+    "confidence": "High"
+  }
+}

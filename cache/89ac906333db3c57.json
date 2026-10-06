@@ -1,0 +1,15 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Covered",
+    "slides": [
+      13
+    ],
+    "evidence": "Fixed fees per phase: Diagnose (AED 350,000), Discover (AED 450,000), Design (AED 500,000), Deliver (AED 400,000).",
+    "missing": "",
+    "reasoning": "Slide 13 provides fixed-fee pricing explicitly broken down by each project phase (Diagnose, Discover, Design, Deliver).",
+    "confidence": "High"
+  }
+}

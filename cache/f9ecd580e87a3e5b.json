@@ -1,0 +1,16 @@
+{
+  "model_used": "gemini-3.5-flash-lite",
+  "tag": "judge-final",
+  "prompt_preview": "Decide whether the proposal deck addresses the client requirement below.\n\nSTATUS (choose exactly one):\n- \"Covered\": the slides commit to ALL parts of the requirement. Different wording is fine.\n- \"Partially covered\": the slides commit to SOME parts, but at least one part is missing.\n- \"Not covered\":",
+  "response": {
+    "status": "Partially covered",
+    "slides": [
+      5,
+      10
+    ],
+    "evidence": "Evaluate readiness baselines across Ports, Freight, Warehousing, Customs Brokerage, and Corporate Services.",
+    "missing": "Explicit commitment that the current-state assessment report details maturity across all operational domains (readiness and baseline are evaluated, but maturity across all domains is not explicitly detailed as a report output).",
+    "reasoning": "The slides commit to evaluating readiness baselines across operational domains and providing a baseline diagnostic report, but they do not explicitly commit to delivering a report detailing 'maturity' across all operational domains.",
+    "confidence": "High"
+  }
+}
